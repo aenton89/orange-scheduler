@@ -1,0 +1,23 @@
+;;;monday 01.04;;;demand hours;FL;;;;;;;;;;;;
+group id;name;qualifications;start;finish;;6;7;8;9;10;11;12;13;14;15;16;17;18;19
+1;name.surname1;FL;08:00;16:00;01.04;-1;-2;-3;-4;-4;-4;-4;-4;-4;-4;-4;-3;-2;-1
+1;name.surname2;FL;06:00;20:00;;demand hours;CHAT;;;;;;;;;;;;
+2;name.surname3;FL and CHAT;06:00;20:00;;6;7;8;9;10;11;12;13;14;15;16;17;18;19
+3;name.surname4;CHAT;07:00;13:00;01.04;-1;-1;-1;-1;-1;-2;-2;-2;-2;-2;-2;-2;-2;-2
+4;name.surname5;FL;10:00;12:00;;;;;;;;;;;;;;;
+1;name.surname6;CHAT;08:00;16:00;;;;;;;;;;;;;;;
+2;name.surname7;CHAT;06:00;20:00;;;;;;;;;;;;;;;
+2;name.surname8;FL;06:00;20:00;;;;;;;;;;;;;;;
+2;name.surname9;FL AND CHAT;06:00;20:00;;;;;;;;;;;;;;;
+1;name.surname10;FL;08:00;16:00;;;;;;;;;;;;;;;
+2;name.surname11;FL;06:00;20:00;;;;;;;;;;;;;;;
+4;name.surname12;FL and CHAT;06:00;20:00;;;;;;;;;;;;;;;
+3;name.surname13;CHAT;06:00;20:00;;;;;;;;;;;;;;;
+2;name.surname14;FL;10:00;12:00;;;;;;;;;;;;;;;
+4;name.surname15;CHAT;06:00;20:00;;;;;;;;;;;;;;;
+1;name.surname16;CHAT;06:00;20:00;;;;;;;;;;;;;;;
+3;name.surname17;FL;06:00;20:00;;;;;;;;;;;;;;;
+4;name.surname18;FL AND CHAT;06:00;20:00;;;;;;;;;;;;;;;
+3;name.surname19;FL;08:00;16:00;;;;;;;;;;;;;;;
+4;name.surname20;FL;06:00;20:00;;;;;;;;;;;;;;;
+3;name.surname21;FL and CHAT;06:00;20:00;;;;;;;;;;;;;;;
